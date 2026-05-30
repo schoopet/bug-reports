@@ -1,0 +1,4 @@
+google-adk[agent-identity]==1.33.0
+pyopenssl>=24.0.0
+google-auth[pyopenssl]>=2.47.0
+urllib3>=2.0.0
