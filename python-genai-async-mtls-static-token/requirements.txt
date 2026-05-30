@@ -1,0 +1,2 @@
+# Use ==1.74.0 to observe the bug, >=1.75.0 to verify the fix.
+google-genai==1.74.0
